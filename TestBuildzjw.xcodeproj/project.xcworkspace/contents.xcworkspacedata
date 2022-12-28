@@ -2,18 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/mac/Desktop/TestBuild/TestBuildzjw.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:../TestBuild">
-   </FileRef>
-   <FileRef
-      location = "group:../TestBuild.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:../TestBuildTests">
    </FileRef>
    <FileRef
       location = "group:../TestBuildUITests">
+   </FileRef>
+   <FileRef
+      location = "group:../TestBuild.xcodeproj">
    </FileRef>
 </Workspace>
